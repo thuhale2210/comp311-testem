@@ -1,5 +1,4 @@
-# comp311-testem
-# Steps
+# COMP311 Testem
 
 1. **Check that Node.js and npm are installed**
    ```sh
@@ -29,7 +28,7 @@
 
 6. **Execute Testem**
    ```sh
-   testem-workshop-yourname\node_modules\.bin\testem
+   testem
    ```
 
 7. **Open the address provided by Testem in your browser**
@@ -86,9 +85,3 @@
      ```sh
      C:\Users\bgoel\testem-workshop-yourname>notepad hello.js
      ```
-
----
-
-### Submission
-
-Make screenshots of the above steps and submit them in the `Testem_workshop` assignment folder.
